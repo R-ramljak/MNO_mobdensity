@@ -1,5 +1,7 @@
 # Research Repository
 
+**For the most current development version please refer to the following repo: https://github.com/eurostat/MNO_mobdensity**
+
 **Title:** On the estimation of spatial density from mobile network operator data
 
 **Authors (Article):** Fabio Ricciato and Angelo Coluccia
